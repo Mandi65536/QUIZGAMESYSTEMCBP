@@ -1,0 +1,60 @@
+What is the function of a compiler?
+To execute a program line by line
+To convert source code into machine code
+To edit the program
+To debug the program
+2
+Which symbol is used to represent a flowchart decision?
+Rectangle
+Oval
+Diamond
+Circle
+3
+Which of the following is NOT a basic data type in C?
+int
+float
+char
+string
+4
+Which function is used for formatted output in C?
+scanf()
+getchar()
+printf()
+puts()
+3
+Which loop is guaranteed to execute at least once?
+for loop
+while loop
+do-while loop
+nested loop
+3
+Which statement is used to skip the current iteration of a loop?
+break
+exit
+continue
+goto
+3
+Which searching technique works only on sorted arrays?
+Linear search
+Binary search
+Sequential search
+Hash search
+2
+Which sorting algorithm repeatedly swaps adjacent elements?
+Selection sort
+Insertion sort
+Bubble sort
+Merge sort
+3
+Which operator is used to access structure members using a pointer?
+.
+*
+&
+->
+4
+Which file mode is used to append data to a file?
+r
+w
+a
+rb
+3
